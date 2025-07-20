@@ -5,9 +5,6 @@
 - 😄 Pronouns: SHE/HER
 - ⚡ Fun fact: I am a network engineer
 
-# Blog Series: Understanding Research Papers
-
-This repository contains links to my Medium blogs where I explain key concepts from research papers.
 
 ## 📘 Blog Posts
 
